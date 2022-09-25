@@ -6,9 +6,13 @@
         <entry key="..\:/Users/1/AndroidStudioProjects/Movie/app/src/main/res/drawable/circle_green.xml" value="0.2985" />
         <entry key="..\:/Users/1/AndroidStudioProjects/Movie/app/src/main/res/drawable/circle_orange.xml" value="0.2985" />
         <entry key="..\:/Users/1/AndroidStudioProjects/Movie/app/src/main/res/drawable/circle_red.xml" value="0.2985" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/Movie/app/src/main/res/layout/activity_favourite_movies.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/1/AndroidStudioProjects/Movie/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
-        <entry key="..\:/Users/1/AndroidStudioProjects/Movie/app/src/main/res/layout/activity_movie_detail.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/Movie/app/src/main/res/layout/activity_movie_detail.xml" value="0.3381364073006724" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/Movie/app/src/main/res/layout/item_for_movie_detail.xml" value="0.365625" />
         <entry key="..\:/Users/1/AndroidStudioProjects/Movie/app/src/main/res/layout/movie_item.xml" value="0.365625" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/Movie/app/src/main/res/layout/review_item.xml" value="0.365625" />
+        <entry key="..\:/Users/1/AndroidStudioProjects/Movie/app/src/main/res/menu/main_menu.xml" value="0.365625" />
       </map>
     </option>
   </component>
